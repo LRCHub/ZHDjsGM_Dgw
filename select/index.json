@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Don't Know Anymore",
+  "base_artist": "Central Cee",
+  "createdAt": "2026-02-18T10:04:10.492722Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/01_I_Really_Don't_Know_Anymore_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/02_I_Really_Don't_Know_Anymore_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/03_I_Really_Don't_Know_Anymore_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Chistopher Cross",
+      "has_synced": true,
+      "path": "select/04_I_Really_Don't_Know_Anymore_Chistopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Don’t Know Anymore",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/05_I_Don’t_Know_Anymore_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Really Don’t Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/06_I_Really_Don’t_Know_Anymore_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I Don't Know Anymore (Remastered)",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/07_I_Don't_Know_Anymore_(Remastered)_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I Don't Know Anymore",
+      "artist": "Aziz Hedra",
+      "has_synced": true,
+      "path": "select/08_I_Don't_Know_Anymore_Aziz_Hedra.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": false,
+      "path": "select/09_I_Really_Don't_Know_Anymore_Christopher_Cross.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Know Anymore",
+      "artist": "Show Me Island",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Know_Anymore_Show_Me_Island.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Don't Know Anymore [Mono Version]",
+      "artist": "Aretha Franklin",
+      "has_synced": true,
+      "path": "select/11_I_Don't_Know_Anymore_[Mono_Version]_Aretha_Franklin.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Christopher Cross",
+      "has_synced": true,
+      "path": "select/12_I_Really_Don't_Know_Anymore_Christopher_Cross.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Really Don't Know Anymore",
+      "artist": "Cross Christopher",
+      "has_synced": true,
+      "path": "select/13_I_Really_Don't_Know_Anymore_Cross_Christopher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Know Anymore",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/14_Don't_Know_Anymore_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Don't Know Anymore",
+      "artist": "Central Cee",
+      "has_synced": false,
+      "path": "select/15_Don't_Know_Anymore_Central_Cee.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "CENTRAL CEE - DON'T KNOW ANYMORE (LYRICS)",
+      "artist": "Central Cee",
+      "has_synced": false,
+      "path": "select/16_CENTRAL_CEE_-_DON'T_KNOW_ANYMORE_(LYRICS)_Central_Cee.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Don't Know Anymore | HipHopKit.com",
+      "artist": "Central Cee",
+      "has_synced": false,
+      "path": "select/17_Don't_Know_Anymore___HipHopKit.com_Central_Cee.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Don't Know Anymore [Explicit]",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/18_Don't_Know_Anymore_[Explicit]_Central_Cee.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Know Anymore",
+      "artist": "Central Cee",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Know_Anymore_Central_Cee.txt"
+    }
+  ]
+}
